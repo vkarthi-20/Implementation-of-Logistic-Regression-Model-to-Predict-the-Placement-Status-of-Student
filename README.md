@@ -25,11 +25,6 @@ Developed by: Karthi V
 RegisterNumber:  212225230130
 */
 
-/*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: JONATHAN SAMRAJ A
-RegisterNumber: 212225040160
-/*
 import pandas as pd
 import numpy as np
 
