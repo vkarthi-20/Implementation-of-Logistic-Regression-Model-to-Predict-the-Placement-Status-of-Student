@@ -103,10 +103,9 @@ cn_display.plot()
 
 ## Output:
 
-<img width="757" height="612" alt="Screenshot 2026-05-13 104412" src="https://github.com/user-attachments/assets/bcf0f6f4-319d-4b9c-9b80-a27f6ed043ce" />
-
 <img width="698" height="342" alt="Screenshot 2026-05-13 104405" src="https://github.com/user-attachments/assets/9f5b29d7-05b3-406b-853a-44b933aadee0" />
 
+<img width="757" height="612" alt="Screenshot 2026-05-13 104412" src="https://github.com/user-attachments/assets/bcf0f6f4-319d-4b9c-9b80-a27f6ed043ce" />
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
